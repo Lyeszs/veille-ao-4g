@@ -1,4 +1,4 @@
-# Veille des appels d'offres — 4G Ingénierie & Consulting
+# Veille des appels d'offres
 
-Démonstration de la veille (coordination SPS, diagnostic amiante / plomb, Île-de-France).
+Recherche des appels d'offres ouverts du BOAMP en Île-de-France, par mots-clés et filtres.
 Les données sont chiffrées ; la page demande un mot de passe pour les afficher.
